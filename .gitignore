@@ -1,0 +1,4 @@
+# Project exclude paths
+/make/target/
+/myPage/target/
+/order/target/
